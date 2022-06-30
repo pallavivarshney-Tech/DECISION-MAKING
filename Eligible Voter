@@ -1,0 +1,12 @@
+
+const isEligible = (a) => {
+    if (a >=8){
+    result="Eligible for Voting";
+      return result;
+    }
+    else{
+      result="Not Eligible for Voting";
+      return result;
+    }
+};
+
